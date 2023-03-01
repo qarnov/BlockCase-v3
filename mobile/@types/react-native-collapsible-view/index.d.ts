@@ -1,1 +1,0 @@
-declare module "@eliav2/react-native-collapsible-view";
