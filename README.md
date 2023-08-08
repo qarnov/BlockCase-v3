@@ -1,4 +1,4 @@
-## BlockCase
+##💡 BlockCase
 
 A Portfolio Tracker for Stocks and Crypto Currencies.
 
