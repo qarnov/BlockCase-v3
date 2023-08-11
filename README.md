@@ -16,6 +16,8 @@ In the project directory, you can run:
 Head over to api folder (npm install for first time users)
 once node modules are installed you can start & compile via npm start.
 
+![image](https://github.com/qarnov/BlockCase-v3/assets/76422084/647c0e12-bb9b-450c-83f1-27f5afc6924d)
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
@@ -23,6 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+![image](https://github.com/qarnov/BlockCase-v3/assets/76422084/1568bdcd-efaf-40fe-a64e-30e9537e6918)
 
 ### `npm test`
 
